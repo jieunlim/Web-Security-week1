@@ -41,9 +41,9 @@ The following **required** functionality is completed:
 
 7. [x]  Required: Redirect the user to a confirmation page.
     * [x]  Required: Locate the page "public/registration\_success.php".
-    * [ ]  Required: Redirect the user to the new page. ([Tips](#!hints))
+    * [x]  Required: Redirect the user to the new page. ([Tips](#!hints))
 
-8. [ ]  Required: Sanitize all dynamic output for HTML. ([Tips](#!hints))
+8. [x]  Required: Sanitize all dynamic output for HTML. ([Tips](#!hints))
 
 
 The following advanced user stories are optional:
@@ -57,7 +57,7 @@ The following advanced user stories are optional:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/cjFIcpU.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -67,7 +67,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2017] [Jieun Lim]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
